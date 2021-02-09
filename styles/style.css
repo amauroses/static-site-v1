@@ -1,0 +1,21 @@
+html {box-sizing: border-box;}
+
+body {font-family: "Arial";color:white;background-color:#b19cd9;}
+
+.wrapper {display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 0px;}
+
+header {background-color:#b19cd9;text-align:center;}
+
+h1 {color:#5e3d9f;text-align:center;
+  background-color:#b19cd9;}
+
+nav {background-color:#b19cd9;}
+
+main {background-color:#b19cd9;text-align:center;color:white;font-family:"Tahoma";
+    flex-grow: 1;
+    padding: 20px;}
+
+footer {background-color:#b19cd9;text-align:center;}
